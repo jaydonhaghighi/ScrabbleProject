@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--author: Mahtab Ameli-->
+
+<board>
+
+    <multiplier>
+        <type>DL</type>
+        <coordinates>-3J-4I-5I-1A-2A-3A-4J-3B-10F-11F-12F-10G-12K-13K-13L-13M-1O-2O-3O-4O-</coordinates>
+    </multiplier>
+
+    <multiplier>
+        <type>DW</type>
+        <coordinates>-13B-13C-13D-13E-4F-5F-6F-6G-6L-6M-6N-7N-</coordinates>
+    </multiplier>
+
+    <multiplier>
+        <type>TL</type>
+        <coordinates>-7C-7D-8C-8D-10I-10J-9J-11J-13O-14O-14N-15N-</coordinates>
+    </multiplier>
+
+    <multiplier>
+        <type>TW</type>
+        <coordinates>-8H-9B-10B-10A-11A-2E-3E-4E-5E-14G-15G-15H-15I-8L-8M-9L-9M-</coordinates>
+    </multiplier>
+
+</board>
